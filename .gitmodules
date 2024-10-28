@@ -1,0 +1,6 @@
+[submodule "cmx-coffee-ui"]
+	path = cmx-coffee-ui
+	url = https://github.com/morriswa/cmx-coffee-ui.git
+[submodule "cmx-coffee-rest"]
+	path = cmx-coffee-rest
+	url = https://github.com/morriswa/cmx-coffee-rest.git
